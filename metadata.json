@@ -1,0 +1,8 @@
+{
+  "name": "Mystic Hand Tarot",
+  "description": "A 3D Tarot reading experience using Hand Tracking and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
